@@ -1,0 +1,42 @@
+{
+  "1": {
+    "explanation": "Door fully open = spring at zero tension. Use prop rod for lock, green light for safe repair.",
+    "science": "energy conservation, zero load state"
+  },
+  "2": {
+    "explanation": "1% continuous downward slope from high to low point prevents sealed chamber.",
+    "science": "ice expansion 9%, gravity relief"
+  },
+  "3": {
+    "explanation": "Plate tectonics conveyor: organic matter to mantle, high pressure to methane, upsurge to oil/hydrate.",
+    "science": "carbon cycle, pressure preservation"
+  },
+  "4": {
+    "explanation": "Tangent line via factorization: y = x² + bx + c, roots r,s; slope k = -(r + s).",
+    "science": "derivative as limit of difference quotient"
+  },
+  "5": {
+    "explanation": "Fish population temperature model: thermal gradients drive migration, not food alone.",
+    "science": "thermodynamic preference, behavioral ecology"
+  },
+  "6": {
+    "explanation": "SiC defect detection via pressure mapping and high-voltage preservation.",
+    "science": "crystal lattice stress, quantum tunneling"
+  },
+  "7": {
+    "explanation": "Middle ring island traffic: hollow core with gradient inflow for zero-congestion flow.",
+    "science": "fluid dynamics, centrifugal force"
+  },
+  "8": {
+    "explanation": "Fossil formation under deep-time high pressure, preserving via tectonic conveyor.",
+    "science": "diagenesis, lithostatic pressure"
+  },
+  "9": {
+    "explanation": "Plate tectonics conveyor for carbon cycle: organic to mantle, methane upsurge.",
+    "science": "subduction zone chemistry, volatile migration"
+  },
+  "10": {
+    "explanation": "Zero-tension repair protocol: full-open state with prop lock and indicator light.",
+    "science": "mechanical equilibrium, torque minimization"
+  }
+}
